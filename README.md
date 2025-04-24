@@ -1,28 +1,24 @@
-<<<<<<< HEAD
-# rs-project
-=======
 # Zomato Restaurant Recommender
 
-A Streamlit web application that recommends similar restaurants based on reviews and ratings using content-based filtering.
+A **Streamlit web application** that recommends similar restaurants based on reviews and ratings using **content-based filtering**.
 
 ## Features
 
-- Interactive web interface
-- Restaurant search and recommendations
+- Interactive web interface for easy navigation
+- Restaurant search and recommendation functionality
 - Detailed restaurant information including:
   - Cuisines
   - Average cost for two
   - Ratings
   - Location
-- Dataset statistics
+- Dataset statistics to give insights into the data
 
 ## Installation
 
-1. Clone this repository
-2. Install the required packages:
+1. Clone this repository to your local machine:
    ```bash
-   pip install -r requirements.txt
-   ```
+   git clone https://github.com/priyansh1908/rs-project.git
+
 
 ## Usage
 
